@@ -1,1 +1,1 @@
-# interpreter
+# Monkey interpreter in Python
